@@ -1,0 +1,44 @@
+{
+	"coord": {
+		"lon": 74.9218,
+		"lat": 39.8912
+	},
+	"weather": [
+		{
+			"id": 800,
+			"main": "Clear",
+			"description": "clear sky",
+			"icon": "01n"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 271.32,
+		"feels_like": 265.79,
+		"temp_min": 271.32,
+		"temp_max": 271.32,
+		"pressure": 1022,
+		"humidity": 38,
+		"sea_level": 1022,
+		"grnd_level": 694
+	},
+	"visibility": 10000,
+	"wind": {
+		"speed": 5.25,
+		"deg": 322,
+		"gust": 5.85
+	},
+	"clouds": {
+		"all": 8
+	},
+	"dt": 1682182288,
+	"sys": {
+		"country": "CN",
+		"sunrise": 1682208710,
+		"sunset": 1682257518
+	},
+	"timezone": 28800,
+	"id": 1280849,
+	"name": "Kashgar",
+	"cod": 200
+}
